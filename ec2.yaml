@@ -27,7 +27,6 @@
     image_id: ami-0f5ee92e2d63afc18
     wait: yes
     group: webserver
-    count: 1
     region: ap-south-1
     security_group: ec2-security-group
     tag_name:
