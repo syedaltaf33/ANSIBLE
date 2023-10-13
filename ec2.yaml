@@ -26,6 +26,7 @@
     instance_type: t2.micro
     image_id: ami-0f5ee92e2d63afc18
     wait: yes
+    count: 0
     group: webserver
     region: ap-south-1
     security_group: ec2-security-group
